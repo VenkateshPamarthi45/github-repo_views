@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carworkz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_search">search</string>
+    <string name="please_wait">Please wait</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="Repos">Repos</string>
+    <string name="explore_repos">Explore Repos</string>
+    <string name="open_issues">Open Issues</string>
+    <string name="watchers">Watchers</string>
+    <string name="subscribers">Subscribers</string>
+    <string name="create_issue">Create Issue</string>
+    <string name="hint_enter_name">Issue Name</string>
+    <string name="hint_enter_description">Enter description</string>
+</resources>
